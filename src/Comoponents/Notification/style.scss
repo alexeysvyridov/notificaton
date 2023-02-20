@@ -1,0 +1,14 @@
+.box-notification {
+  width: fit-content;
+  min-width: 220px;
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 40px;
+  align-items: center;
+  border-radius: 12px;
+  padding: 8px;
+  color: #fff;
+  gap:10px;
+}
